@@ -28,7 +28,7 @@ jupyter notebook
 
 -
 
-## 3 лабораторная "Метол главных компонент" (код написан командой [Daniil Gofman](https://github.com/danielgof))
+## 3 лабораторная "Метод главных компонент" (код написан командой [Daniil Gofman](https://github.com/danielgof))
 
 -
 
