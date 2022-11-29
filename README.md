@@ -1,5 +1,7 @@
 # Лабораторные работы по курсу "Макростатистический анализ и прогнозирование"
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ForwardMoth/makrostat/blob/main/README.en.md)
+
 - Установка Jupyter Notebook 
 
 ```python 
